@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3j0098/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3j0098/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楊公筆錄
+  date: '2015-08-24 23:23:07.129820'
+  source:
+    repository: kanripo
+    path: KR3j0098
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0098_000-WYG.yaml, hash: 'sha256:7e194f4cdf084ed1188c73b5052d382695d968a62af9e3427a2d6137bc17cec4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3j0098_000-WYG.markers.yaml, hash: 'sha256:3245a1b0551de3fee4ff8cab9fb8ac4bd374b0778b10e46c088297caa9bf73a2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3j0098_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 264
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3j0098_WYG_000-3a
+    span:
+    - body
+    - 264
+    - 8528
+  label: 楊公筆録
+  type: section
+  level: 1
+hash: sha256:d6bc68fc3cc3bcd3ecab55f2430eb79735827bd00013f9c62554e74853dbbbd9
