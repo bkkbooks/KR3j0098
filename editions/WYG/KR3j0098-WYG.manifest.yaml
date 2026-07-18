@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3j0098_000-WYG.yaml, hash: 'sha256:7e194f4cdf084ed1188c73b5052d382695d968a62af9e3427a2d6137bc17cec4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0098_000-WYG.markers.yaml, hash: 'sha256:3245a1b0551de3fee4ff8cab9fb8ac4bd374b0778b10e46c088297caa9bf73a2'}
+  - {seq: 0, role: markers, filename: assets/KR3j0098_000-WYG.markers.yaml, hash: 'sha256:94d9a93fd4495075bf252f98d23c3819d72ffd758ee38c6093710098bd7a166d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 楊公筆録
   type: section
   level: 1
-hash: sha256:d6bc68fc3cc3bcd3ecab55f2430eb79735827bd00013f9c62554e74853dbbbd9
+hash: sha256:976d916f0cf756a35231c30981b2e8b216521e6bcd276f9ad6f0c2ffa41a7b29
